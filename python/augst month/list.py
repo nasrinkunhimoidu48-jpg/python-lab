@@ -1,0 +1,11 @@
+print("1st qstn answer")
+thislist=[3,1,4,9,8,2,6]
+print("the given list is",thislist)
+print("length of the given list")
+print(len(thislist))
+print("2nd qstn answer")
+print(thislist[-1])
+print("3rd qstn answer - list in reverse")
+print("5th qstn answer")
+thislist.insert(7,7)
+print(thislist)
