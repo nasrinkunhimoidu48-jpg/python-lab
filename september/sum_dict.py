@@ -1,0 +1,5 @@
+print("sum in dictionary")
+x=dict(s=100,v=200,l=200)
+y=sum(x.values())
+print(y)
+print(x)
